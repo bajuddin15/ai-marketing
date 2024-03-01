@@ -1,6 +1,6 @@
 import "./App.css";
 import Dashboard from "./pages/Dashboard";
-import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import { HashRouter as Router, Switch, Route } from "react-router-dom";
 import Cards from "./components/Cards";
 import MarketingPlan from "./pages/MaketingPlan";
 import Drafts from "./pages/Histroy";
